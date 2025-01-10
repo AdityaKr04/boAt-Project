@@ -332,6 +332,9 @@ html,body{
     color: grey;
     font-size: 10px;
  }
+.foot a{
+    color: black;   
+ }
 
 @media screen  and (max-width:321px){
     #life_id1{
