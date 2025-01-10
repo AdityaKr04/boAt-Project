@@ -333,6 +333,89 @@ html,body{
     font-size: 10px;
  }
 
+@media screen  and (max-width:321px){
+    #life_id1{
+        float: right;
+        padding-left: 10px;
+     }
+     #life_id1  .card1 img{
+        width: 70%;
+     }
+     #life_id1  .card2 img{
+        width: 70%;
+     }
+     #life_id2 .card2{
+        float: right;
+        /* padding-left: 55px; */
+     }
+     #life_id2  .card3 img{
+        width: 70%;
+     }
+     #life_id2  .card4 img{
+        width: 70%;
+     }
+     .blogarea .card{
+        /* width: 18rem; */
+        width: 18rem !important; 
+     }
+     .life {
+        padding: 1px 0px !important;
+    }
+    .foot {
+        background-color: #E7F0F5;
+        padding-top: 50px;
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+    .headarea {
+        padding: 10px 0px;
+    }
+    .headarea {
+        font-size: 11px !important;
+    }
+    .im {
+        padding: 20px 24px !important;
+        float: left;
+    }.im1 {
+        padding: 20px 24px !important;
+        float: left;
+    }.im2 {
+        padding: 20px 24px !important;
+        float: left;
+    }.im3 {
+        padding: 20px 24px !important;
+        float: left;
+    }
+    .catarea {
+        padding: 25px 0px;
+    }
+    .blogarea {
+        padding: 25px 5px;
+    }
+    .contact {
+        background-color: #E7F0F5;
+        padding: 50px 0px;
+    }
+    .contact li{
+        font-size: 10px;
+    }
+    #adj{
+        padding: 25px 0px;
+    }
+    #s1{
+        font-size: 15px;
+    }
+    #s2 {
+        font-weight: bold;
+        font-size: 12px;
+        text-align: right;
+        padding: 5px 20px;
+    }
+    
+ }
+
 @media screen  and (Min-width:300px) and (max-width:426px){
     .contact li{
         font-size: 12px;
